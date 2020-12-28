@@ -4,3 +4,6 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 gem "github-pages", group: :jekyll_plugins
+url: "https://isnt.github.io
+baseurl: "" # the subpath of your site, e.g. "/blog"
+repository: "TAEKnical/isnt.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
